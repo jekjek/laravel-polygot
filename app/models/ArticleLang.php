@@ -1,8 +1,8 @@
 <?php
-use Polyglot\Polyglot;
 
-class ArticleLang extends Polyglot
+class ArticleLang extends Eloquent
 {
     public $timestamps = false;
+
     protected $fillable = ['title', 'content'];
 }

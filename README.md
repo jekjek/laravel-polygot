@@ -1,9 +1,4 @@
 README
-=======
+======
 
-
-php artisan migrate:make create_article_table
-php artisan migrate:make create_article_translation_table
-
-
-php artisan migrate
+[Laravel](https://github.com/laravel/laravel) Test Project with [Polygot](https://github.com/Anahkiasen/polyglot) extension

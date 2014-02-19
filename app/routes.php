@@ -16,7 +16,7 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
-// polygot test
+// polyglot test
 Route::get('test', function () {
 
     $p = new Article;
